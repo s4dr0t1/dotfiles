@@ -6,11 +6,11 @@
 
 ## Installation
 
-> **Warn**
+> **Warning**
 > Currently a work in progress, I suggest not trying it out in production environments for now.
 
 ```sh
-$ chezmoi init s4dr0t1
+$ sh -c "$(curl -fsLS https://chezmoi.io/get)" -- init --apply s4dr0t1
 ```
 
 ## Tools
