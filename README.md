@@ -4,7 +4,6 @@
 ![License](https://img.shields.io/github/license/s4dr0t1/dotfiles?style=flat-square)
 
 > **Note**
-
 > Here you'll find my personal dotfiles along with some other things. I am using [chezmoi](https://github.com/twpayne/chezmoi) to manage them. They keep changing from time to time though, so I'd suggest to take inspiration from them to build something of your own.
 
 
