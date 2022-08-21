@@ -19,7 +19,7 @@ Name | Description | Link | Documentation
 -|-|-|-
 starship | The minimal, blazing-fast, and infinitely customizable prompt for any shell! | [Link](./files/dot_config/starship.toml) | None yet
 Fish shell |  The user-friendly command line shell. | [Link](./files/dot_config/fish/) | None yet
-tmux | tmux is a terminal multiplexer | [Link](./files/dot_tmux.conf) | None yet
+tmux | tmux is a terminal multiplexer | [Link](./files/dot_tmux.conf) | [Link](./documentation/tmux.md)
 Neovim | hyperextensible Vim-based text editor | [Link](./files/dot_config/nvim) | [Documentation](./documentation/nvim.md)
 
 ## Acknowledgements
